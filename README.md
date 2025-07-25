@@ -42,5 +42,5 @@ This dashboard provides a robust analysis of car dealership performance, with dy
 - Performance optimization and design best practices
 
 ## 📌 Credits
-Built by Kajol jadhav, based on the tutorial *Power BI Project From Start to End Part 1 | Car Sales | Advanced DAX Functions* (2024) (https://youtu.be/XnPo5Ft7RzQ?feature=shared)
+based on the tutorial *Power BI Project From Start to End Part 1 | Car Sales | Advanced DAX Functions* (2024) (https://youtu.be/XnPo5Ft7RzQ?feature=shared)
 
